@@ -1,0 +1,67 @@
+body {
+  background-color: #edece9;
+  color: #9a5449;
+}
+header img {
+  width: 99.5%;
+  height: auto;
+  padding: 1px;
+}
+
+h1 {
+  color: #775548;
+  font-family: Verdana;
+  font-size: 40px;
+}
+
+nav {
+  display: flexbox;
+  font-family: Verdana;
+  font-size: 23px;
+}
+
+a {
+  color: #ee7f19;
+}
+
+h2 {
+  background-color: #775548;
+  color: #e1d4cf;
+  font-family: Verdana;
+  font-size: 20px;
+}
+
+.en-negrita {
+  font-weight: bold;
+}
+
+section {
+  font-family: sans-serif;
+  font-size: 19px;
+}
+
+#la-nacion {
+  color: #3aabc4;
+}
+
+#pagina-doce {
+  color: #ef4b51;
+}
+
+.porque-elegirnos h2 {
+  color: #d8b03b;
+}
+
+footer {
+  background-color: black;
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+footer span {
+  font-size: 6rem;
+  color: yellow;
+  text-align: center;
+}
